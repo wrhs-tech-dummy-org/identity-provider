@@ -25,3 +25,5 @@ gem "webpacker", "= 5.4.2"
 gem "doorkeeper-jwt", "~> 0.4.1"
 
 gem "redis", "~> 5.0"
+
+gem "sidekiq", "~> 1.0.0"
